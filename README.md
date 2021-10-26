@@ -1,10 +1,10 @@
 <body>
-<h1 align="center">💻 Projetos de Java💻</h1>
+<h1 align="left">💻 Projetos de Java💻</h1>
 
-<p align="center">📘 Nesse repositório é possível encontrar algumas pastas com os seguintes tópicos:
+<p align="left">📘 Nesse repositório é possível encontrar algumas pastas com os seguintes tópicos:
 <br>
-  <ul> 
-    <li  align="center">
+  <ul   align="left"> 
+    <li>
       <a> ✅ Operadores aritiméticos;</a>
       <a>✅ Laços condicionais;</a>
       <a>✅ Laços de repetição;</a>
