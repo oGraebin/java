@@ -7,10 +7,10 @@
    ✅ Operadores aritiméticos; <br>
    ✅ Laços condicionais; <br>
    ✅ Laços de repetição;<br>
-   ✅ Matrizes e vetores;
-   ✅ Programação orientada a objetos;
-   ✅ Projeto ecommerce procedural;
-   ✅ Projeto ecommerce orientado a objetos
+   ✅ Matrizes e vetores; <br>
+   ✅ Programação orientada a objetos; <br>
+   ✅ Projeto ecommerce procedural; <br>
+   ✅ Projeto ecommerce orientado a objetos. 
 
   </ul>
 </body>
