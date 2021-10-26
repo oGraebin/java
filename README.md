@@ -5,13 +5,13 @@
 <br>
   <ul align="center"> 
     <li>
-   ✅ Operadores aritiméticos; <br>
-   ✅ Laços condicionais; <br>
-   ✅ Laços de repetição;<br>
-   ✅ Matrizes e vetores; <br>
-   ✅ Programação orientada a objetos; <br>
-   ✅ Projeto ecommerce procedural; <br>
-   ✅ Projeto ecommerce orientado a objetos. 
+      <a> ✅ Operadores aritiméticos;</a> <br> 
+   <a>✅ Laços condicionais;</a> <br>
+ <a>✅ Laços de repetição;</a><br>
+  <a>✅ Matrizes e vetores;</a> <br>
+   <a>✅ Programação orientada a objetos;</a> <br>
+   <a>✅ Projeto ecommerce procedural;</a> <br>
+   <a>✅ Projeto ecommerce orientado a objetos.</a> 
     </li>
 
   </ul>
